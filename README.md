@@ -40,14 +40,31 @@ https://github.com/user-attachments/assets/a05b65f6-f0d6-4807-8b0f-15a1c4a92000
 ## Getting Started
 
 ## Project Structure
+```bash
+Educational-Game-App/
+├── Assets/
+│   ├── Scripts/         # C# scripts for game logic and interactions
+│   ├── Scenes/          # Unity scenes for menus and game levels
+│   ├── Prefabs/         # Reusable game objects
+│   └── Animations/      # Character and object animations
+├── Firebase/
+│   ├── Database/        # User profiles, progress, activity data
+│   └── Authentication/  # User login and role management
+├── UI/
+│   ├── Menus/           # Main menu, settings, navigation screens
+│   └── GameUI/          # In-game HUD, progress indicators, feedback
+└── Resources/
+    ├── BlenderModels/   # 3D characters created with Blender
+    └── Audio/           # Sound effects and voice guidance
+```
 
 ## Team Members
 
 - Lead: Maysem Alhazmi
 - Bashaer Alhuthali
+-  Ghaida Alharthi
 - Ranem Organji
 - Rewaa Khalifah
-- Ghaida Alharthi
 
 ## License
 This project is licensed under the MIT License.
