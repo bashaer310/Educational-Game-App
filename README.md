@@ -19,7 +19,7 @@ This is **an educational game application** built with Unity and Firebase. The g
   - **Performance Feedback** - The system records results and provides simple feedback
 
 
-## Live-Demo
+## Live Demo
 
 https://github.com/user-attachments/assets/a05b65f6-f0d6-4807-8b0f-15a1c4a92000
 
@@ -37,3 +37,17 @@ https://github.com/user-attachments/assets/a05b65f6-f0d6-4807-8b0f-15a1c4a92000
 - Tools
   - Blender - Creating and animating 3D characters
 
+## Getting Started
+
+## Project Structure
+
+## Team Members
+
+- Lead: Maysem Alhazmi
+- Bashaer Alhuthali
+- Ranem Organji
+- Rewaa Khalifah
+- Ghaida Alharthi
+
+## License
+This project is licensed under the MIT License.
