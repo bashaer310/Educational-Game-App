@@ -23,4 +23,17 @@ This is **an educational game application** built with Unity and Firebase. The g
 
 https://github.com/user-attachments/assets/a05b65f6-f0d6-4807-8b0f-15a1c4a92000
 
+## Technologies Used
+
+- Languages
+  - C# - Game logic and scripting
+
+- Frameworks
+  - Unity - Game development engine
+
+- Database
+  - Firebase - Backend services for authentication, database
+
+- Tools
+  - Blender - Creating and animating 3D characters
 
